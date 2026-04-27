@@ -1,0 +1,11 @@
+﻿=== Doctors ===
+Doctor ID : 0 Doctor Name: Hesho, Specialty: Dr., Consultation Price: 2000 EGP
+
+=== Patients ===
+[No patients]
+
+=== Payments ===
+[No payments]
+
+=== Appointments ===
+[No appointments]

@@ -1,0 +1,11 @@
+﻿=== Doctors ===
+Doctor ID : 0 Doctor Name: hesham, Specialty: sur, Consultation Price: 200 EGP
+
+=== Patients ===
+Patient ID: 1, Name: hesham, Phone: 01032969969, Email: he@gmail.com
+
+=== Payments ===
+Payment ID: 1, Patient: [Patient ID: 1, Name: hesham, Phone: 01032969969, Email: he@gmail.com], Amount: 2000, Date: 1/26/2026 10:13:27 AM
+
+=== Appointments ===
+Appointment ID: 1, Patient: [Patient ID: 1, Name: hesham, Phone: 01032969969, Email: he@gmail.com], Doctor: [Doctor ID : 0 Doctor Name: hesham, Specialty: sur, Consultation Price: 200 EGP], Date and Time: 2/15/2026 8:30:00 PM
